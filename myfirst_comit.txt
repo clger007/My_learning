@@ -1,1 +1,0 @@
-this is my first commit, i will try to use the command line from now, because for some environment the GUI is not always on the shelf.
